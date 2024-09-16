@@ -1,4 +1,4 @@
-# Hi 👋, I'm Edita, a Frontend developer!
+# Hi! 👋 I'm Edita, a Frontend developer!
 
 ## 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,redux,git,vite,sass,materialui,supabase,firebase,figma&perline=7)](https://skillicons.dev)
